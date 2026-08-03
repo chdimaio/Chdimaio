@@ -55,5 +55,3 @@ If you’re hiring for roles involving:
 Applied ML • NLP • LangOps • Software Engineer (Front-end / Back-end) Graduate Programs • ML Evaluation • Responsible/Quality AI • Localization quality
 
 Let's get in touch!
-
----
