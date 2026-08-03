@@ -19,7 +19,7 @@ I’m naturally multifaceted too: I’m a **linguist and communicator** with 12+
 ### 🔧 Skills snapshot
 **Languages:** Java, SQL, JavaScript  
 **Tech & frameworks:** Docker, Git, React, Node.js, PostgreSQL, REST API, Spring Boot, HTML, CSS, Jira, Agile
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
