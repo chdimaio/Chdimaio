@@ -48,3 +48,4 @@ If you’re hiring for roles involving:<br>
 Software Engineer (Front-end / Back-end) • Tech  Graduate Programs • Applied ML & Gen AI
 
 Let's get in touch!
+[LinkedIn](https://www.linkedin.com/in/chiara-di-maio) · chdimaio@gmail.com
