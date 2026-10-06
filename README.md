@@ -1,18 +1,11 @@
 ## Hello world! Chiara here 👋
 
-Applied ML / LangOps with a multilingual lens. I’ve been fine-tuning AI assistant outputs through quality-focused processes—bias and safety QA included, while bridging NLP datasets, evaluation, and ML-enabled localization workflows.
-
-I’m naturally multifaceted too: I’m a **linguist and communicator** with 12+ years of experience across renowned NGOs and UN agencies, so I bring PR skills, stakeholder management, and clear, audience-aware communication into tech work.
-
-**Currently looking for a role / internship** in Applied ML, LangOps, and Software engineering.
-
----
+**Junior Full-Stack Developer · Barcelona, Spain**
+Factoría F5 graduate in Full Stack Development & Gen AI, looking for a **developer internship** in Barcelona or remote.
 
 ### 🧠 What I do best
-- Multilingual dataset + evaluation work
-- Language quality review for AI assistants
-- Bias / harmlessness checks and safety-minded quality processes
-- ML-enabled localization workflows (translation + quality at the data level)
+I build web apps with **Java / Spring Boot** and **React**.
+I’m naturally multifaceted too: I’m a **linguist and communicator** by background with 12+ years of experience across renowned NGOs and a UN agency, so I bring PR skills, stakeholder management, and strong communication skills into tech work.
 
 ---
 
@@ -52,6 +45,6 @@ I’m naturally multifaceted too: I’m a **linguist and communicator** with 12+
 
 ### 🤝 Open to work
 If you’re hiring for roles involving:
-Applied ML • NLP • LangOps • Software Engineer (Front-end / Back-end) Graduate Programs • ML Evaluation • Responsible/Quality AI • Localization quality
+Software Engineer (Front-end / Back-end) • Tech  Graduate Programs • Applied ML & Gen AI
 
 Let's get in touch!
