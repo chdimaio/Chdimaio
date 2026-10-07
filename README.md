@@ -11,15 +11,13 @@ I’m naturally multifaceted too: I’m a **linguist and communicator** by backg
 
 ### 🔧 Skills snapshot
 **Languages:** Java, SQL, JavaScript  
-**Tech & frameworks:** Docker, Git, React, Node.js, PostgreSQL, REST API, Spring Boot, HTML, CSS, Jira, Agile
+**Tech & frameworks:** Git, React, Node.js, PostgreSQL, REST API, Spring Boot, HTML, CSS, Jira, Agile
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img width="12" />
