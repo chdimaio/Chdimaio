@@ -5,7 +5,7 @@ Factoría F5 graduate in Full Stack Development & Gen AI, looking for a **develo
 
 ### 🧠 What I do best
 I build web apps with **Java / Spring Boot** and **React**.<br>
-I’m naturally multifaceted too: I’m a **linguist and communicator** by background with 12+ years of experience across renowned NGOs and a UN agency, so I bring PR skills, stakeholder management, and strong communication skills into tech work.
+I’m naturally multifaceted too: I’m a **linguist and communicator** by background with 10+ years of experience across renowned NGOs and a UN agency, so I bring PR skills, stakeholder management, and strong communication skills into tech work.
 
 ---
 
@@ -45,7 +45,7 @@ I’m naturally multifaceted too: I’m a **linguist and communicator** by backg
 
 ### 🤝 Open to work
 If you’re hiring for roles involving:<br>
-Software Engineer (Front-end / Back-end) • Tech  Graduate Programs • Applied ML & Gen AI
+Software Engineer (Front-end / Back-end) • Tech Graduate Programs • Applied ML & Gen AI
 
 Let's get in touch!
 [LinkedIn](https://www.linkedin.com/in/chiara-di-maio) · chdimaio@gmail.com
