@@ -11,7 +11,7 @@ I’m naturally multifaceted too: I’m a **linguist and communicator** by backg
 
 ### 🔧 Skills snapshot
 **Languages:** Java, SQL, JavaScript  
-**Tech & frameworks:** Git, React, Node.js, PostgreSQL, REST API, Spring Boot, HTML, CSS, Jira, Agile
+**Tech & frameworks:** Git, React, Node.js, PostgreSQL, REST API, HTML, CSS, Sass, Tailwind, Spring Boot, Spring Data JPA, Spring Security JWT, Maven, JUnit, Mockito, Design Patterns, Spec-driven Development, Jira, Agile, Scrum, Atomic Design, Screaming Architecture
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   <img width="12" />
