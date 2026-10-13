@@ -1,7 +1,7 @@
 ## Hello world! Chiara here 👋
 
 **Junior Full-Stack Developer · Barcelona, Spain**<br>
-Factoría F5 graduate in Full Stack Development & Gen AI, looking for a **developer internship** in Barcelona or remote.
+Factoría F5 graduate in Full Stack Development with Gen AI, looking for a **developer internship** in Barcelona or remote.
 
 ### 🧠 What I do best
 I build web apps with **Java / Spring Boot** and **React**.<br>
